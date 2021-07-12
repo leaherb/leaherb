@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Leah Erb
 - 👀  I’m interested in developing tools to help clever folks save the world.
-- 🌱  I’m currently learning Alexa dev, CI/CD pipelines, and technical writing that does not bore.
+- 🌱  I’m currently learning Alexa dev, CI/CD pipelines, and to write technical docs that do not bore.
 - 💞️  I’m looking to collaborate on developing tools to help save the world.
 - 📫  How to reach me: leah@leaherb.com
 
