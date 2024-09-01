@@ -1,5 +1,5 @@
-- 👋  Hi, I’m Leah Erb
-- 👀  I’m interested in developing backend systems, and working with clever people out to save the world.
+- 👋  Hi, my name is Leah Erb.
+- 👀  I’m passionate about developing solid backend systems, working with people committed to making a positive impact on the world.
 - 🌱  I’m currently the Sr. Backend Engineer at ChargeNet Stations, a startup in the green space.
 - 💞️  I’m in my happy place when collaborating with people from diverse backgrounds to find solutions for tough problems.
 - 📫  How to reach me: leah@leaherb.com
