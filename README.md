@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Leah Erb
-- 👀  I’m interested in developing tools to help clever folks save the world.
-- 🌱  I’m currently learning Alexa dev, CI/CD pipelines, and to write technical docs that do not bore.
-- 💞️  I’m looking to collaborate on developing tools to help save the world.
+- 👀  I’m interested in developing tools and working with clever people out to save the world.
+- 🌱  I’m currently the Sr. Backend Engineer at ChargeNet Stations, a startup in the green space.
+- 💞️  I’m in my happy space when collaborating with people from diverse backgrounds to find solutions for tough problems.
 - 📫  How to reach me: leah@leaherb.com
 
 <!---
